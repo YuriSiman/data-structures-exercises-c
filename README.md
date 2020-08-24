@@ -37,8 +37,8 @@ Finalizar o programa
 
 ```
 
-A **opção A** será desenvolvida utilizando o comando **while**
-A **opção B** será desenvolvida utilizando o comando **do while**
-A **opção C** será desenvolvida utilizando o comando **for**
+A **opção A** será desenvolvida utilizando o comando **while**  
+A **opção B** será desenvolvida utilizando o comando **do while**  
+A **opção C** será desenvolvida utilizando o comando **for**  
 
 
