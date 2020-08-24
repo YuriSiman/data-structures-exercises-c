@@ -89,6 +89,8 @@ Resultado String 1 - Estrutur* de D*dos
 
 * Exibir o tamanho da string 2 **sem** utilizar nenhuma função da biblioteca **string.h**
 
+* Copiar o valor da string 2 na string 1 **sem** utilizar nenhuma função da biblioteca **string.h**
+
 ## alocacao-dinamica
 
 Programa para alocar espaço de memória na Heap, o usuário deverá informar um tamanho inteiro e positivo para um vetor. O mesmo vetor deverá ser criado **dinamicamente**. Após a criação do vetor, o usuário deverá preencher todas as posições com valores inteiros e positivos. As posições devem ser alteradas conforme os seguintes itens abaixo:
