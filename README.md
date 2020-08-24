@@ -168,11 +168,12 @@ Projeto para executar o cálculo da sequência de Fibonacci e o cálculo do fato
 Fatorial | Sequência de Fibonacci
 ------------ | -------------
 Corresponde ao produto dos números inteiros positivos consecutivos de um número natural **n** maiores ou iguais a **n** | Corresponde a uma sequência de números inteiros, começando por 0 e 1, e cada termo subsequente equivale à soma dos dois anteriores
-Para a representação utiliza-se a notação do fatorial de um número n é n!. Onde n é um número natural, portanto, o fatorial de n é definido por: **0! = 1** n! = n . (n – 1).(n – 2) . . . 3 . 2 . 1 | **Fn = Fn−1 + Fn−2**  Onde os valores iniciais são: F1 = 0 e F2 = 1
+Para a representação utiliza-se a notação do fatorial de um número n é n! |  **Fn = Fn−1 + Fn−2**
+Onde n é um número natural, portanto, o fatorial de n é definido por: **0! = 1** n! = n . (n – 1).(n – 2) . . . 3 . 2 . 1 |  Onde os valores iniciais são: F1 = 0 e F2 = 1
 
 Sabendo disto, a execução do programa deverá seguir conforme as etapas:
 
-* Criar os tipos conforme descrição a seguir, e para todos eles, deve ser aplicado typedef para novos tipos 
+* Criar o tipo conforme descrição a seguir, deve ser aplicado **typedef** para um novo tipo
 
   * **Enum** para definir a escolha do menu, o usuário poderá escolher entre as opções para calcular a Sequência Fibonacci ou calcular o Fatorial de um número
   
@@ -183,6 +184,8 @@ fibonacci = 1
 fatorial = 2
 ```
 
+* Criar o tipo conforme descrição a seguir, deve ser aplicado **typedef** para um novo tipo
+
   * **Union** para receber a escolha da execução (se fatorial ou fibonacci) e outro campo para receber a quantidade de execuções que serão realizadas
   
 ```
@@ -191,6 +194,8 @@ Atenção - Primeiro o cliente definirá se deseja calcular fibonacci ou fatoria
 menu - int
 numero - int
 ```
+
+* Criar o tipo conforme descrição a seguir, deve ser aplicado **typedef** para um novo tipo
 
   * **Struct** para armazenar os campos do cálculo
   
@@ -211,9 +216,9 @@ Menu
 3 - Finalizar
 ```
 
-* Após a escolha de um tipo de cálculo do usuário, o valor deverá ser retornado para ser preenchido no Union
+* Após a escolha de um tipo de cálculo do usuário, o valor deverá ser retornado para ser preenchido no **Union**
 
-* Criar uma função que receba um número inteiro, positivo. Retorne-o, validado, via parâmetro por referência, para o campo numero da Union
+* Criar uma função que receba um número **inteiro, positivo**. Retorne-o, validado, **via parâmetro por referência**, para o campo numero da **Union**
 
 ```
 Atenção 
@@ -222,9 +227,9 @@ Fibonacci - Para calcular a Sequência de Fibonacci, deve-se aceitar apenas valo
 Fatorial - Para calcular o Fatorial, deve-se aceitar valores positivos ou nulos
 ```
 
-* Criar uma função que receba o número de termos e calcule a sequência de Fibonacci. Considerando a explicação anterior, e utilizando a Struct, que será passada via parâmetro, para preenchimento
+* Criar uma função que receba o número de **termos** e calcule a sequência de Fibonacci. Considerando a explicação anterior, e utilizando a **Struct**, que será passada via parâmetro, para preenchimento
 
-* Criar uma função que receba o número de termos e calcule o Fatorial deste número. Considerando a explicação anterior, e utilizando a Struct, que será passada via parâmetro, para preenchimento
+* Criar uma função que receba o número de **termos** e calcule o Fatorial deste número. Considerando a explicação anterior, e utilizando a **Struct**, que será passada via parâmetro, para preenchimento
 
 
 
