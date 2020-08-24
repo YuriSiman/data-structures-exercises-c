@@ -4,7 +4,7 @@
 
 int main()
 {
-    char string1[50], string2[50], caracter;
+    char string1[50], string2[50], caracter, espaco[50] = " ";
     int cont = 0;
     
     printf("\nDigite a primeira palavra:");
@@ -13,8 +13,9 @@ int main()
     printf("\nDigite a segunda palavra:");
     gets(string2);
     
-    printf("\nConcatenando a segunda palavra com a primeira");
-    strcat(string1, string2);
+    printf("\nConcatenando a segunda palavra com a primeira, formando uma única, e separando-as por espaço");
+    strcat(espaco, string2);
+    strcat(string1, espaco);
     printf("\nResultado da primeira palavra: %s", string1);
     
     printf("\n\nExibindo as duas palavras em ordem alfabética - Resultado numérico obtido: %d", strcmp(string1, string2));
