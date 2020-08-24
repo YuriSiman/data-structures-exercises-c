@@ -41,5 +41,12 @@ int main()
     }
     printf(" %d caracteres", cont);
     
+    printf("\n\nAntes da cópia\nPrimeira Palavra: %s\nSegunda Palavra: %s", string1, string2);
+    for(int i = 0; i < 50; i++){
+        if(string2[i] == '\0') break;
+            string1[i] = string2[i];
+    }
+    printf("\n\nDepois da cópia\nPrimeira Palavra: %s\nSegunda Palavra: %s", string1, string2);
+    
     return 0;
 }
