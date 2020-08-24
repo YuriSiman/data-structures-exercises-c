@@ -8,6 +8,7 @@
 [manipulacao-de-string](https://github.com/YuriSiman/c-projects#manipulacao-de-string)  
 [alocacao-dinamica](https://github.com/YuriSiman/c-projects#alocacao-dinamica)  
 [passagem-de-parametro-por-referencia](https://github.com/YuriSiman/c-projects#passagem-de-parametro-por-referencia)  
+[declaracao-de-novos-tipos](https://github.com/YuriSiman/c-projects#declaracao-de-novos-tipos)  
 
 ## sequencias-matematica
 [Início](https://github.com/YuriSiman/c-projects#c-projects)  
@@ -157,9 +158,73 @@ Opção C
 Finalizar o programa
 ```
 
+## declaracao-de-novos-tipos
+[Início](https://github.com/YuriSiman/c-projects#c-projects)  
 
+Projeto para executar o cálculo da sequência de Fibonacci e o cálculo do fatorial de um número. 
 
+**Importante**
 
+Fatorial | Sequência de Fibonacci
+------------ | -------------
+Corresponde ao produto dos números inteiros positivos consecutivos de um número natural **n** maiores ou iguais a **n** | Corresponde a uma sequência de números inteiros, começando por 0 e 1, e cada termo subsequente equivale à soma dos dois anteriores
+Para a representação utiliza-se a notação do fatorial de um número n é n!. Onde n é um número natural, portanto, o fatorial de n é definido por: **0! = 1** n! = n . (n – 1).(n – 2) . . . 3 . 2 . 1 | **Fn = Fn−1 + Fn−2**  Onde os valores iniciais são: F1 = 0 e F2 = 1
+
+Sabendo disto, a execução do programa deverá seguir conforme as etapas:
+
+* Criar os tipos conforme descrição a seguir, e para todos eles, deve ser aplicado typedef para novos tipos 
+
+  * **Enum** para definir a escolha do menu, o usuário poderá escolher entre as opções para calcular a Sequência Fibonacci ou calcular o Fatorial de um número
+  
+```
+Atenção - Se o cliente digitar 1 indica que ele quer calcular uma Sequência de Fibonacci, se digitar 2 indica que ele quer calcular o Fatorial de um número  
+
+fibonacci = 1
+fatorial = 2
+```
+
+  * **Union** para receber a escolha da execução (se fatorial ou fibonacci) e outro campo para receber a quantidade de execuções que serão realizadas
+  
+```
+Atenção - Primeiro o cliente definirá se deseja calcular fibonacci ou fatorial (utilizar enum anterior), depois ele deverá informar o número de termos, se for fibonacci ou, caso seja selecionado fatorial, o número que será calculado
+
+menu - int
+numero - int
+```
+
+  * **Struct** para armazenar os campos do cálculo
+  
+```
+Atenção - Primeiro o cliente definirá se deseja calcular fibonacci ou fatorial (utilizar enum anterior), depois ele deverá informar o número de termos, se for fibonacci ou, caso seja selecionado fatorial, o número que será calculado
+
+resultado - int
+termo - int
+```
+
+* Criar um menu para exibir as seguintes opções:
+
+```
+Menu
+
+1 - Calcular Sequência de Fibonacci
+2 - Calcular o Fatorial de um Número
+3 - Finalizar
+```
+
+* Após a escolha de um tipo de cálculo do usuário, o valor deverá ser retornado para ser preenchido no Union
+
+* Criar uma função que receba um número inteiro, positivo. Retorne-o, validado, via parâmetro por referência, para o campo numero da Union
+
+```
+Atenção 
+
+Fibonacci - Para calcular a Sequência de Fibonacci, deve-se aceitar apenas valores positivos
+Fatorial - Para calcular o Fatorial, deve-se aceitar valores positivos ou nulos
+```
+
+* Criar uma função que receba o número de termos e calcule a sequência de Fibonacci. Considerando a explicação anterior, e utilizando a Struct, que será passada via parâmetro, para preenchimento
+
+* Criar uma função que receba o número de termos e calcule o Fatorial deste número. Considerando a explicação anterior, e utilizando a Struct, que será passada via parâmetro, para preenchimento
 
 
 
