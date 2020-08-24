@@ -10,6 +10,7 @@
 [passagem-de-parametro-por-referencia](https://github.com/YuriSiman/c-projects#passagem-de-parametro-por-referencia)  
 
 ## sequencias-matematica
+[Início](https://github.com/YuriSiman/c-projects#c-projects)  
 
 Menu para calcular três sequências matemáticas enquanto o usuário permitir, o programa deverá ficar em loop eterno e ser finalizado pelo usuário quando o mesmo decidir finalizar, segue exemplo a seguir:
 
@@ -48,6 +49,7 @@ A **opção B** será desenvolvida utilizando o comando **do while**
 A **opção C** será desenvolvida utilizando o comando **for**  
 
 ## manipulacao-de-string
+[Início](https://github.com/YuriSiman/c-projects#c-projects)  
 
 Atividade para manipulação de string **com** e **sem** a utilização da biblioteca **string.h**
 
@@ -95,6 +97,7 @@ Resultado String 1 - Estrutur* de D*dos
 * Copiar o valor da string 2 na string 1 **sem** utilizar nenhuma função da biblioteca **string.h**
 
 ## alocacao-dinamica
+[Início](https://github.com/YuriSiman/c-projects#c-projects)  
 
 Programa para alocar espaço de memória na Heap, o usuário deverá informar um tamanho inteiro e positivo para um vetor. O mesmo vetor deverá ser criado **dinamicamente**. Após a criação do vetor, o usuário deverá preencher todas as posições com valores inteiros e positivos. As posições devem ser alteradas conforme os seguintes itens abaixo:
 
@@ -109,6 +112,7 @@ Programa para alocar espaço de memória na Heap, o usuário deverá informar um
 * Liberar o espaço de memória utilizado
 
 ## passagem-de-parametro-por-referencia
+[Início](https://github.com/YuriSiman/c-projects#c-projects)  
 
 Programa que implementa as práticas de passagem de parâmetro por valor, passagem de parâmetro por referência e passagem de vetores por parâmetro com aritmética de ponteiro. Construa um menu para o usuário escolher entre as opções A, B ou C, o programa deverá ficar em loop eterno e ser finalizado pelo usuário quando o mesmo decidir finalizar. Será criado um vetor para armazenar salários.
 
