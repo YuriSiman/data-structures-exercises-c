@@ -2,7 +2,7 @@
 
 ###### Aplicações de console em C para fins didáticos exercendo lógica de programação, manipulação de string, ponteiros, alocação dinâmica, declaração de novos tipos, diretivas de compilação, recursividade e listas lineares
 
-## sequencia-matematica
+## sequencias-matematica
 
 Menu para calcular três sequências matemáticas enquanto o usuário permitir, o programa deverá ficar em loop eterno e ser finalizado pelo usuário quando o mesmo decidir finalizar, segue exemplo a seguir:
 
@@ -88,6 +88,20 @@ Resultado String 1 - Estrutur* de D*dos
 * Exibir o tamanho da string 1
 
 * Exibir o tamanho da string 2 **sem** utilizar nenhuma função da biblioteca **string.h**
+
+## alocacao-dinamica
+
+Programa para alocar espaço de memória na Heap, o usuário deverá informar um tamanho inteiro e positivo para um vetor. O mesmo vetor deverá ser criado **dinamicamente**. Após a criação do vetor, o usuário deverá preencher todas as posições com valores inteiros e positivos. As posições devem ser alteradas conforme os seguintes itens abaixo:
+
+* Para as posições pares do vetor: calcule o dobro do valor digitado
+
+* Para as posições ímpares do vetor: calcule a metade do valor digitado
+
+* Exibir o vetor criado, com seus valores calculados e alterados
+
+* Exibir a soma dos itens
+
+* Liberar o espaço de memória utilizado
 
 
 
