@@ -4,10 +4,10 @@
 
 ## Projetos
 
-[sequencias-matematica](https://github.com/YuriSiman/c-projects#sequencias-matematica)
-[manipulacao-de-string](https://github.com/YuriSiman/c-projects#manipulacao-de-string)
-[alocacao-dinamica](https://github.com/YuriSiman/c-projects#alocacao-dinamica)
-[passagem-de-parametro-por-referencia](https://github.com/YuriSiman/c-projects#passagem-de-parametro-por-referencia)
+[sequencias-matematica](https://github.com/YuriSiman/c-projects#sequencias-matematica)  
+[manipulacao-de-string](https://github.com/YuriSiman/c-projects#manipulacao-de-string)  
+[alocacao-dinamica](https://github.com/YuriSiman/c-projects#alocacao-dinamica)  
+[passagem-de-parametro-por-referencia](https://github.com/YuriSiman/c-projects#passagem-de-parametro-por-referencia)  
 
 ## sequencias-matematica
 
