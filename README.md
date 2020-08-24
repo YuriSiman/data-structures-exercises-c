@@ -105,6 +105,54 @@ Programa para alocar espaço de memória na Heap, o usuário deverá informar um
 
 * Liberar o espaço de memória utilizado
 
+## passagem-de-parametro-por-referencia
+
+Programa que implementa as práticas de passagem de parâmetro por valor, passagem de parâmetro por referência e passagem de vetores por parâmetro com aritmética de ponteiro. Construa um menu para o usuário escolher entre as opções A, B ou C, o programa deverá ficar em loop eterno e ser finalizado pelo usuário quando o mesmo decidir finalizar. Será criado um vetor para armazenar salários.
+
+Mas antes, uma manipulação de strings:
+
+* Copiar a palavra "Estrutura" presente numa variável de **origem** para uma variável de **destino** que esteja vazia, **sem** utilizar nenhuma função da biblioteca **string.h**
+
+```
+Exemplo:
+
+Opação A - Minha Strcpy
+
+Origem - Estrutura
+Destino - 
+
+Resultado Destino - Estrutura 
+```
+
+Criando o vetor para armazenar os salários:
+
+* Função que recebe, **via parâmetro**, um vetor do tipo real e seu tamanho do tipo inteiro. O vetor deve ser criado **dinamicamente** e seu tamanho deve ser definido pelo usuário. 
+
+* Criar uma função para validar o tamanho do vetor que será informado pelo usuário, o tamanho precisa ser um número **inteiro maior do que zero**
+
+* Cada posição do vetor deve ser preenchida com um valor positivo, referente ao salário, utilizando **aritmética de ponteiros**
+
+* Criar uma função para validar os salários que serão informados pelo usuário, a digitação deve ser de um número **real maior do que zero**. A função deverá retornar o número validado via **parâmetro por referência**
+
+* Após preencher o valor do salário, o mesmo deve ser calculado conforme a tabela abaixo:
+
+Salário | % de aumento
+------------ | -------------
+Se salário <= R$ 1.500,00 | 15% de aumento
+R$ 1.500,00 > salário <= R$ 5.000,00 | 10% de aumento
+salário > R$ 5.000,00 | Não haverá aumento
+
+* Exibir vetor utilizando **aritmética de ponteiros**
+
+```
+
+Opção C
+
+Finalizar o programa
+
+```
+
+
 
 
 
