@@ -34,7 +34,6 @@ Opção C
 Opção D
 
 Finalizar o programa
-
 ```
 
 A **opção A** será desenvolvida utilizando o comando **while**  
@@ -56,7 +55,6 @@ String 1 - Estrutura
 String 2 - de Dados
 
 Resultado String 1 - Estrutura de Dados
-
 ```
 
 * Exibir as strings em ordem alfabética
@@ -70,7 +68,6 @@ String 1 - Estrutura de Dados
 String 2 - de Dados
 
 Resultado String 2 - Estrutura de Dados
-
 ```
 
 * O usuário deverá digitar um caracter, se o caracter existir na string 1, substitua-o por asterisco `*`
@@ -82,7 +79,6 @@ Caracter - a
 String 1 - Estrutura de Dados 
 
 Resultado String 1 - Estrutur* de D*dos
-
 ```
 
 * Exibir o tamanho da string 1
@@ -145,11 +141,9 @@ salário > R$ 5.000,00 | Não haverá aumento
 * Exibir vetor utilizando **aritmética de ponteiros**
 
 ```
-
 Opção C
 
 Finalizar o programa
-
 ```
 
 
