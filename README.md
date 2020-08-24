@@ -41,4 +41,59 @@ A **opção A** será desenvolvida utilizando o comando **while**
 A **opção B** será desenvolvida utilizando o comando **do while**  
 A **opção C** será desenvolvida utilizando o comando **for**  
 
+## manipulacao-de-string
+
+Atividade para manipulação de string **com** e **sem** a utilização da biblioteca **string.h**
+
+* O usuário deverá digitar duas strings
+
+* Acrescentar a segunda string na primeira, formando uma única, e separando-as por espaço
+
+```
+Exemplo:
+
+String 1 - Estrutura
+String 2 - de Dados
+
+Resultado String 1 - Estrutura de Dados
+
+```
+
+* Exibir as strings em ordem alfabética
+
+* Substituir a segunda string com o valor da primeira
+
+```
+Exemplo:
+
+String 1 - Estrutura de Dados 
+String 2 - de Dados
+
+Resultado String 2 - Estrutura de Dados
+
+```
+
+* O usuário deverá digitar um caracter, se o caracter existir na string 1, substitua-o por asterisco `*`
+
+```
+Exemplo:
+
+Caracter - a
+String 1 - Estrutura de Dados 
+
+Resultado String 1 - Estrutur* de D*dos
+
+```
+
+* Exibir o tamanho da string 1
+
+* Exibir o tamanho da string 2 **sem** utilizar nenhuma função da biblioteca **string.h**
+
+
+
+
+
+
+
+
 
