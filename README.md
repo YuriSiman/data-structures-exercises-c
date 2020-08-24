@@ -2,6 +2,13 @@
 
 ###### Aplicações de console em C para fins didáticos exercendo lógica de programação, manipulação de string, ponteiros, alocação dinâmica, declaração de novos tipos, diretivas de compilação, recursividade e listas lineares
 
+## Projetos
+
+[sequencias-matematica](https://github.com/YuriSiman/c-projects#sequencias-matematica)
+[manipulacao-de-string](https://github.com/YuriSiman/c-projects#manipulacao-de-string)
+[alocacao-dinamica](https://github.com/YuriSiman/c-projects#alocacao-dinamica)
+[passagem-de-parametro-por-referencia](https://github.com/YuriSiman/c-projects#passagem-de-parametro-por-referencia)
+
 ## sequencias-matematica
 
 Menu para calcular três sequências matemáticas enquanto o usuário permitir, o programa deverá ficar em loop eterno e ser finalizado pelo usuário quando o mesmo decidir finalizar, segue exemplo a seguir:
