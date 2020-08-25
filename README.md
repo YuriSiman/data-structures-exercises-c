@@ -1,6 +1,6 @@
 # c-projects
 
-###### Aplicações de console em C para fins didáticos exercendo lógica de programação, manipulação de string, ponteiros, alocação dinâmica, declaração de novos tipos, diretivas de compilação, recursividade e listas lineares
+###### Aplicações em C para fins didáticos em Estrutura de Dados exercendo lógica de programação, manipulação de string, ponteiros, alocação dinâmica, declaração de novos tipos, diretivas de compilação, recursividade e listas lineares
 
 ## Projetos
 
