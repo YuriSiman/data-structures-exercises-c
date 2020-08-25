@@ -27,20 +27,18 @@ git clone https://github.com/YuriSiman/c-projects
 
 ### :pencil2: Progresso
 
-- [] sequencias-matematica
-- [] manipulacao-de-string
-- [] alocacao-dinamica
-- [] passagem-de-parametro-por-referencia
-- [] declaracao-de-novos-tipos
-- [] cadastro-de-produtos
+- [ ] sequencias-matematica
+- [ ] manipulacao-de-string
+- [ ] alocacao-dinamica
+- [ ] passagem-de-parametro-por-referencia
+- [ ] declaracao-de-novos-tipos
+- [ ] cadastro-de-produtos
 
 ---
 
 ## 🚀 Vamos Começar
 
 ## sequencias-matematica
-:large_blue_circle: [Início](https://github.com/YuriSiman/c-projects#Projetos)  
-:pencil2: [Progresso](https://github.com/YuriSiman/c-projects#Progresso)  
 
 Menu para calcular três sequências matemáticas enquanto o usuário permitir, o programa deverá ficar em loop eterno e ser finalizado pelo usuário quando o mesmo decidir finalizar, segue exemplo a seguir:
 
@@ -78,10 +76,12 @@ A **opção A** será desenvolvida utilizando o comando **while**
 A **opção B** será desenvolvida utilizando o comando **do while**  
 A **opção C** será desenvolvida utilizando o comando **for**  
 
+:large_blue_circle: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+:pencil2: [Progresso](https://github.com/YuriSiman/c-projects#progresso)  
+
 ---
 
 ## manipulacao-de-string
-[Início](https://github.com/YuriSiman/c-projects#c-projects)  
 
 Atividade para manipulação de string **com** e **sem** a utilização da biblioteca **string.h**
 
@@ -128,10 +128,12 @@ Resultado String 1 - Estrutur* de D*dos
 
 * Copiar o valor da string 2 na string 1 **sem** utilizar nenhuma função da biblioteca **string.h**
 
+:large_blue_circle: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+:pencil2: [Progresso](https://github.com/YuriSiman/c-projects#progresso)  
+
 ---
 
 ## alocacao-dinamica
-[Início](https://github.com/YuriSiman/c-projects#c-projects)  
 
 Programa para alocar espaço de memória na Heap, o usuário deverá informar um tamanho inteiro e positivo para um vetor. O mesmo vetor deverá ser criado **dinamicamente**. Após a criação do vetor, o usuário deverá preencher todas as posições com valores inteiros e positivos. As posições devem ser alteradas conforme os seguintes itens abaixo:
 
@@ -145,10 +147,12 @@ Programa para alocar espaço de memória na Heap, o usuário deverá informar um
 
 * Liberar o espaço de memória utilizado
 
+:large_blue_circle: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+:pencil2: [Progresso](https://github.com/YuriSiman/c-projects#progresso)  
+
 ---
 
 ## passagem-de-parametro-por-referencia
-[Início](https://github.com/YuriSiman/c-projects#c-projects)  
 
 Programa que implementa as práticas de passagem de parâmetro por valor, passagem de parâmetro por referência e passagem de vetores por parâmetro com aritmética de ponteiro. Construa um menu para o usuário escolher entre as opções A, B ou C, o programa deverá ficar em loop eterno e ser finalizado pelo usuário quando o mesmo decidir finalizar. Será criado um vetor para armazenar salários.
 
@@ -193,10 +197,12 @@ Opção C
 Finalizar o programa
 ```
 
+:large_blue_circle: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+:pencil2: [Progresso](https://github.com/YuriSiman/c-projects#progresso)  
+
 ---
 
 ## declaracao-de-novos-tipos
-[Início](https://github.com/YuriSiman/c-projects#c-projects)  
 
 Projeto para executar o cálculo da sequência de Fibonacci e o cálculo do fatorial de um número. 
 
@@ -268,10 +274,12 @@ Fatorial - Para calcular o Fatorial, deve-se aceitar valores positivos ou nulos
 
 * Criar uma função que receba o número de **termos** e calcule o Fatorial deste número. Considerando a explicação anterior, e utilizando a **Struct**, que será passada via parâmetro, para preenchimento
 
+:large_blue_circle: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+:pencil2: [Progresso](https://github.com/YuriSiman/c-projects#progresso)  
+
 ---
 
 ## cadastro-de-produtos
-[Início](https://github.com/YuriSiman/c-projects#c-projects)  
 
 Este projeto tem como proposta fazer o cadastro de produtos de uma empresa. Observe os itens abaixo para criar o sistema em console:  
 
@@ -326,6 +334,9 @@ void cadastrarPreco(float *valor);
 void cadastrarQuantidade(novoTipo *produto);
 ```
 
+:large_blue_circle: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+:pencil2: [Progresso](https://github.com/YuriSiman/c-projects#progresso)  
+
 ---
 
 ## Contribuindo
@@ -371,8 +382,8 @@ Entre em contato comigo!
 
 ## 📝 Licença
 
-[(https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github)](https://github.com/YuriSiman/c-projects/blob/master/LICENSE)  
+[![License](https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github)](https://github.com/YuriSiman/c-projects/blob/master/LICENSE)   
 
 ---
 
-[(https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github)](https://github.com/YuriSiman/c-projects/blob/master/LICENSE)  
+[![Github](https://img.shields.io/badge/github-profile-%237159c1?style=for-the-badge&logo=github)](https://github.com/YuriSiman)  
