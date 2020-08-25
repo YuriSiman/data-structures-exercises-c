@@ -1,18 +1,46 @@
-# c-projects
+<h1 align="center">Estrutura de Dados em C</h1>
 
-###### Aplicações em C para fins didáticos em Estrutura de Dados exercendo lógica de programação, manipulação de string, ponteiros, alocação dinâmica, declaração de novos tipos, diretivas de compilação, recursividade e listas lineares
+<p align="center">Aplicações em C para fins didáticos em Estrutura de Dados exercendo lógica de programação, manipulação de string, ponteiros, alocação dinâmica, declaração de novos tipos, diretivas de compilação, recursividade e listas lineares</p>
 
 ## Projetos
 
-[sequencias-matematica](https://github.com/YuriSiman/c-projects#sequencias-matematica)  
-[manipulacao-de-string](https://github.com/YuriSiman/c-projects#manipulacao-de-string)  
-[alocacao-dinamica](https://github.com/YuriSiman/c-projects#alocacao-dinamica)  
-[passagem-de-parametro-por-referencia](https://github.com/YuriSiman/c-projects#passagem-de-parametro-por-referencia)  
-[declaracao-de-novos-tipos](https://github.com/YuriSiman/c-projects#declaracao-de-novos-tipos)  
-[cadastro-de-produtos](https://github.com/YuriSiman/c-projects#cadastro-de-produtos)  
+* [sequencias-matematica](https://github.com/YuriSiman/c-projects#sequencias-matematica)  
+* [manipulacao-de-string](https://github.com/YuriSiman/c-projects#manipulacao-de-string)  
+* [alocacao-dinamica](https://github.com/YuriSiman/c-projects#alocacao-dinamica)  
+* [passagem-de-parametro-por-referencia](https://github.com/YuriSiman/c-projects#passagem-de-parametro-por-referencia)  
+* [declaracao-de-novos-tipos](https://github.com/YuriSiman/c-projects#declaracao-de-novos-tipos)  
+* [cadastro-de-produtos](https://github.com/YuriSiman/c-projects#cadastro-de-produtos)  
+
+---
+
+### :dart: Objetivo
+
+Tenho como objetivo propor exercícios sobre Estrutura de Dados utilizando a linguagem C para fins didáticos e aprendizado básico sobre a linguagem  
+
+### Clone
+
+Clone este repositório em sua máquina local usando:
+
+```
+git clone https://github.com/YuriSiman/c-projects
+```
+
+### :pencil2: Progresso
+
+- [] sequencias-matematica
+- [] manipulacao-de-string
+- [] alocacao-dinamica
+- [] passagem-de-parametro-por-referencia
+- [] declaracao-de-novos-tipos
+- [] cadastro-de-produtos
+
+---
+
+## 🚀 Vamos Começar
 
 ## sequencias-matematica
-[Início](https://github.com/YuriSiman/c-projects#c-projects)  
+:large_blue_circle: [Início](https://github.com/YuriSiman/c-projects#Projetos)  
+:pencil2: [Progresso](https://github.com/YuriSiman/c-projects#Progresso)  
 
 Menu para calcular três sequências matemáticas enquanto o usuário permitir, o programa deverá ficar em loop eterno e ser finalizado pelo usuário quando o mesmo decidir finalizar, segue exemplo a seguir:
 
@@ -49,6 +77,8 @@ Finalizar o programa
 A **opção A** será desenvolvida utilizando o comando **while**  
 A **opção B** será desenvolvida utilizando o comando **do while**  
 A **opção C** será desenvolvida utilizando o comando **for**  
+
+---
 
 ## manipulacao-de-string
 [Início](https://github.com/YuriSiman/c-projects#c-projects)  
@@ -98,6 +128,8 @@ Resultado String 1 - Estrutur* de D*dos
 
 * Copiar o valor da string 2 na string 1 **sem** utilizar nenhuma função da biblioteca **string.h**
 
+---
+
 ## alocacao-dinamica
 [Início](https://github.com/YuriSiman/c-projects#c-projects)  
 
@@ -112,6 +144,8 @@ Programa para alocar espaço de memória na Heap, o usuário deverá informar um
 * Exibir a soma dos itens
 
 * Liberar o espaço de memória utilizado
+
+---
 
 ## passagem-de-parametro-por-referencia
 [Início](https://github.com/YuriSiman/c-projects#c-projects)  
@@ -158,6 +192,8 @@ Opção C
 
 Finalizar o programa
 ```
+
+---
 
 ## declaracao-de-novos-tipos
 [Início](https://github.com/YuriSiman/c-projects#c-projects)  
@@ -232,6 +268,7 @@ Fatorial - Para calcular o Fatorial, deve-se aceitar valores positivos ou nulos
 
 * Criar uma função que receba o número de **termos** e calcule o Fatorial deste número. Considerando a explicação anterior, e utilizando a **Struct**, que será passada via parâmetro, para preenchimento
 
+---
 
 ## cadastro-de-produtos
 [Início](https://github.com/YuriSiman/c-projects#c-projects)  
@@ -289,6 +326,53 @@ void cadastrarPreco(float *valor);
 void cadastrarQuantidade(novoTipo *produto);
 ```
 
+---
 
+## Contribuindo
 
+> Para começar...
 
+### Passo 1
+
+* 🍴 Fork este repositório!
+
+### Passo 2
+
+* 👯 Clone este repositório para sua máquina local usando `https://github.com/YuriSiman/c-projects.git`
+
+### Passo 3
+
+* :trident: Crie sua feature branch usando `git checkout -b minha-feature`
+
+### Passo 4
+
+* ✅ Commit suas mudanças usando `git commit -m "feat: Minha nova feature"`
+
+### Passo 5
+
+* 📌 Dê um push usando `git push origin minha-feature`
+
+### Passo 6
+
+* 🔃 Crie um novo pull request
+
+Depois que seu pull request for mesclado, você pode excluir sua feature branch
+
+---
+
+## :speech_balloon: Suporte
+
+Entre em contato comigo!  
+
+* Me chame pelo [Linkedin](https://www.linkedin.com/in/yurisiman/)  
+* Me mande um e-mail [Gmail](mailto:yurisimannogueira@gmail.com)  
+
+---
+
+## 📝 Licença
+
+[(https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github)](https://github.com/YuriSiman/c-projects/blob/master/LICENSE)  
+
+---
+
+[(https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github)](https://github.com/YuriSiman/c-projects/blob/master/LICENSE)  
