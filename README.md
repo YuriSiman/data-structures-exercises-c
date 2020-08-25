@@ -9,6 +9,7 @@
 [alocacao-dinamica](https://github.com/YuriSiman/c-projects#alocacao-dinamica)  
 [passagem-de-parametro-por-referencia](https://github.com/YuriSiman/c-projects#passagem-de-parametro-por-referencia)  
 [declaracao-de-novos-tipos](https://github.com/YuriSiman/c-projects#declaracao-de-novos-tipos)  
+[cadastro-de-produtos](https://github.com/YuriSiman/c-projects#cadastro-de-produtos)  
 
 ## sequencias-matematica
 [Início](https://github.com/YuriSiman/c-projects#c-projects)  
@@ -232,6 +233,61 @@ Fatorial - Para calcular o Fatorial, deve-se aceitar valores positivos ou nulos
 * Criar uma função que receba o número de **termos** e calcule o Fatorial deste número. Considerando a explicação anterior, e utilizando a **Struct**, que será passada via parâmetro, para preenchimento
 
 
+## cadastro-de-produtos
+[Início](https://github.com/YuriSiman/c-projects#c-projects)  
+
+Este projeto tem como proposta fazer o cadastro de produtos de uma empresa. Observe os itens abaixo para criar o sistema em console:  
+
+* Criar uma **estrutura** para o cadastro de produtos com as seguintes características:
+
+```
+Nome – Não nulo, com 40 posições
+Código – De 0 até 50
+Preço – positivo ou nulo
+Quantidade – positiva ou nula
+```
+
+* Criar um **novo tipo** baseado na estrutura anterior
+
+* Criar um menu semelhante ao exemplo abaixo:
+
+```
+Menu
+
+A - Criar Estrutura para Preenchimento
+B - Preencher Dados
+C - Exibir Produtos com Estoque Zerado
+D - Exibir Produtos em Estoque
+E - Finalizar Programa
+```
+
+* Criar estrutura **dinamicamente**, considerando a quantidade de registros que deverá ser indicada pelo usuário. Para esta quantidade de registros indicada, deve ser criada uma função para solicitar o número total de produtos, um número positivo, que deverá ser validado.  
+
+* Criar uma função que efetue a chamada de todas as outras funções de preenchimento de dados. `Obs: Só será possível inserir dados se a estrutura tiver sido criada e se a quantidade não tiver excedido`
+
+* Criar uma função que exiba todos os produtos que estão faltando no estoque (quantidade zerada). Utilizar aritmética de ponteiros. `Obs: Só será possível exibir dados se a estrutura tiver sido criada`
+
+* Criar uma função que liste todos os produtos cadastrados. Utilizar manipulação de índice de vetor. `Obs: Só será possível exibir dados se a estrutura tiver sido criada`
+
+* Criar uma macro que gere um valor randômico de 0 até 50 para inserir no código do produto
+
+* Criar uma função que efetue o cadastro do nome do produto. Não deve aceitar digitação nula, a função receberá todos os produtos cadastrados e alterará apenas o que for necessário. Deve ser feito por passagem de **parâmetro por referência**.
+
+```
+void cadastrarNome(novoTipo *produto);
+```
+
+* Criar uma função que efetue o cadastro do preço do produto. Só deve aceitar valores **positivos** ou **nulos**, a função receberá um **ponteiro** para um valor **float** e alterará apenas o que for necessário. Deve ser feito por passagem de **parâmetro por referência**.
+
+```
+void cadastrarPreco(float *valor);
+```
+
+* Criar uma função que efetue o cadastro da quantidade do produto. Só deve aceitar valores **positivos** ou **nulos**, a função receberá todos os produtos cadastrados e alterará apenas o que for necessário. Deve ser feito por passagem de **parâmetro por referência**.
+
+```
+void cadastrarQuantidade(novoTipo *produto);
+```
 
 
 
