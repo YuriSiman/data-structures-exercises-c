@@ -2,7 +2,7 @@
 
 <p align="center">Aplicações em C para fins didáticos em Estrutura de Dados exercendo lógica de programação, manipulação de string, ponteiros, alocação dinâmica, declaração de novos tipos, diretivas de compilação, recursividade e listas lineares</p>
 
-## Projetos
+## 📋 Projetos
 
 * [sequencias-matematica](https://github.com/YuriSiman/c-projects#sequencias-matematica)  
 * [manipulacao-de-string](https://github.com/YuriSiman/c-projects#manipulacao-de-string)  
@@ -76,8 +76,7 @@ A **opção A** será desenvolvida utilizando o comando **while**
 A **opção B** será desenvolvida utilizando o comando **do while**  
 A **opção C** será desenvolvida utilizando o comando **for**  
 
-:large_blue_circle: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
-:pencil2: [Progresso](https://github.com/YuriSiman/c-projects#progresso)  
+:small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
 
@@ -128,8 +127,7 @@ Resultado String 1 - Estrutur* de D*dos
 
 * Copiar o valor da string 2 na string 1 **sem** utilizar nenhuma função da biblioteca **string.h**
 
-:large_blue_circle: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
-:pencil2: [Progresso](https://github.com/YuriSiman/c-projects#progresso)  
+:small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
 
@@ -147,8 +145,7 @@ Programa para alocar espaço de memória na Heap, o usuário deverá informar um
 
 * Liberar o espaço de memória utilizado
 
-:large_blue_circle: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
-:pencil2: [Progresso](https://github.com/YuriSiman/c-projects#progresso)  
+:small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
 
@@ -197,8 +194,7 @@ Opção C
 Finalizar o programa
 ```
 
-:large_blue_circle: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
-:pencil2: [Progresso](https://github.com/YuriSiman/c-projects#progresso)  
+:small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
 
@@ -274,8 +270,7 @@ Fatorial - Para calcular o Fatorial, deve-se aceitar valores positivos ou nulos
 
 * Criar uma função que receba o número de **termos** e calcule o Fatorial deste número. Considerando a explicação anterior, e utilizando a **Struct**, que será passada via parâmetro, para preenchimento
 
-:large_blue_circle: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
-:pencil2: [Progresso](https://github.com/YuriSiman/c-projects#progresso)  
+:small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
 
@@ -334,8 +329,7 @@ void cadastrarPreco(float *valor);
 void cadastrarQuantidade(novoTipo *produto);
 ```
 
-:large_blue_circle: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
-:pencil2: [Progresso](https://github.com/YuriSiman/c-projects#progresso)  
+:small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
 
