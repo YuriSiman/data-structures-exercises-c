@@ -367,7 +367,7 @@ Depois que seu pull request for mesclado, você pode excluir sua feature branch
 
 ## :speech_balloon: Suporte
 
-Entre em contato comigo!  
+> Entre em contato comigo...  
 
 * Me chame pelo [Linkedin](https://www.linkedin.com/in/yurisiman/)  
 * Me mande um e-mail [Gmail](mailto:yurisimannogueira@gmail.com)  
