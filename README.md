@@ -261,7 +261,7 @@ D - Exibir Produtos em Estoque
 E - Finalizar Programa
 ```
 
-* Criar estrutura **dinamicamente**, considerando a quantidade de registros que deverá ser indicada pelo usuário. Para esta quantidade de registros indicada, deve ser criada uma função para solicitar o número total de produtos, um número positivo, que deverá ser validado.  
+* Criar estrutura **dinamicamente**, considerando a quantidade de registros que deverá ser indicada pelo usuário. Para esta quantidade de registros indicada, deve ser criada uma função para solicitar o número total de produtos, um número positivo, que deverá ser validado  
 
 * Criar uma função que efetue a chamada de todas as outras funções de preenchimento de dados. `Obs: Só será possível inserir dados se a estrutura tiver sido criada e se a quantidade não tiver excedido`
 
@@ -271,19 +271,19 @@ E - Finalizar Programa
 
 * Criar uma macro que gere um valor randômico de 0 até 50 para inserir no código do produto
 
-* Criar uma função que efetue o cadastro do nome do produto. Não deve aceitar digitação nula, a função receberá todos os produtos cadastrados e alterará apenas o que for necessário. Deve ser feito por passagem de **parâmetro por referência**.
+* Criar uma função que efetue o cadastro do nome do produto. Não deve aceitar digitação nula, a função receberá todos os produtos cadastrados e alterará apenas o que for necessário. Deve ser feito por passagem de **parâmetro por referência**  
 
 ```
 void cadastrarNome(novoTipo *produto);
 ```
 
-* Criar uma função que efetue o cadastro do preço do produto. Só deve aceitar valores **positivos** ou **nulos**, a função receberá um **ponteiro** para um valor **float** e alterará apenas o que for necessário. Deve ser feito por passagem de **parâmetro por referência**.
+* Criar uma função que efetue o cadastro do preço do produto. Só deve aceitar valores **positivos** ou **nulos**, a função receberá um **ponteiro** para um valor **float** e alterará apenas o que for necessário. Deve ser feito por passagem de **parâmetro por referência**  
 
 ```
 void cadastrarPreco(float *valor);
 ```
 
-* Criar uma função que efetue o cadastro da quantidade do produto. Só deve aceitar valores **positivos** ou **nulos**, a função receberá todos os produtos cadastrados e alterará apenas o que for necessário. Deve ser feito por passagem de **parâmetro por referência**.
+* Criar uma função que efetue o cadastro da quantidade do produto. Só deve aceitar valores **positivos** ou **nulos**, a função receberá todos os produtos cadastrados e alterará apenas o que for necessário. Deve ser feito por passagem de **parâmetro por referência**  
 
 ```
 void cadastrarQuantidade(novoTipo *produto);
