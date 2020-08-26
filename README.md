@@ -31,16 +31,18 @@ git clone https://github.com/YuriSiman/c-projects
 
 ### :pencil2: Progresso
 
-- [ ] sequencias-matematica
-- [ ] manipulacao-de-string
-- [ ] alocacao-dinamica
-- [ ] passagem-de-parametro-por-referencia
-- [ ] declaracao-de-novos-tipos
-- [ ] cadastro-de-produtos
-- [ ] recursividade-potencia
-- [ ] recursividade-multiplicacao
-- [ ] recursao-de-cauda-mdc
-- [ ] recursividade-torre-de-hanoi
+- [x] sequencias-matematica
+- [x] manipulacao-de-string
+- [x] alocacao-dinamica
+- [x] passagem-de-parametro-por-referencia
+- [x] declaracao-de-novos-tipos
+- [x] cadastro-de-produtos
+- [x] recursividade-potencia
+- [x] recursividade-multiplicacao
+- [x] recursao-de-cauda-mdc
+- [x] recursividade-torre-de-hanoi
+- [ ] listas-lineares
+- [ ] matrizes-esparsas
 
 ---
 
@@ -431,6 +433,12 @@ Implemente este jogo usando uma função **recursiva** `para esta implementaçã
 
 * [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/recursividade-torre-de-hanoi)  
 * [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+
+---
+
+## :vertical_traffic_light: Status do Projeto
+
+:construction: Atividades de listas lineares sendo implementadas :construction:
 
 ---
 
