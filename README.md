@@ -78,8 +78,8 @@ A **opção A** será desenvolvida utilizando o comando **while**
 A **opção B** será desenvolvida utilizando o comando **do while**  
 A **opção C** será desenvolvida utilizando o comando **for**  
 
-:eyes: [Código](https://github.com/YuriSiman/c-projects/tree/master/sequencias-matematica)  
-:small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+* [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/sequencias-matematica)  
+* [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
 
@@ -130,8 +130,8 @@ Resultado String 1 - Estrutur* de D*dos
 
 * Copiar o valor da string 2 na string 1 **sem** utilizar nenhuma função da biblioteca **string.h**
 
-:eyes: [Código](https://github.com/YuriSiman/c-projects/tree/master/manipulacao-de-string)  
-:small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+* [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/manipulacao-de-string)  
+* [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
 
@@ -149,8 +149,8 @@ Programa para alocar espaço de memória na Heap, o usuário deverá informar um
 
 * Liberar o espaço de memória utilizado
 
-:eyes: [Código](https://github.com/YuriSiman/c-projects/tree/master/alocacao-dinamica)  
-:small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+* [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/alocacao-dinamica)  
+* [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
 
@@ -199,8 +199,8 @@ Opção C
 Finalizar o programa
 ```
 
-:eyes: [Código](https://github.com/YuriSiman/c-projects/tree/master/passagem-de-parametro-por-referencia)  
-:small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+* [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/passagem-de-parametro-por-referencia)  
+* [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
 
@@ -276,8 +276,8 @@ Fatorial - Para calcular o Fatorial, deve-se aceitar valores positivos ou nulos
 
 * Criar uma função que receba o número de **termos** e calcule o Fatorial deste número. Considerando a explicação anterior, e utilizando a **Struct**, que será passada via parâmetro, para preenchimento
 
-:eyes: [Código](https://github.com/YuriSiman/c-projects/tree/master/declaracao-de-novos-tipos)  
-:small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+* [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/declaracao-de-novos-tipos)  
+* [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
 
@@ -336,8 +336,8 @@ void cadastrarPreco(float *valor);
 void cadastrarQuantidade(novoTipo *produto);
 ```
 
-:eyes: [Código](https://github.com/YuriSiman/c-projects/tree/master/cadastro-de-produtos)  
-:small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+* [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/cadastro-de-produtos)  
+* [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
 
@@ -368,8 +368,8 @@ Legenda: Considerar ^ como símbolo para calcular a potência e o {} recebendo o
 
 * Resultado de `2^{-7} = 0,0078125`
 
-:eyes: [Código](https://github.com/YuriSiman/c-projects/tree/master/recursividade-potencia)  
-:small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+* [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/recursividade-potencia)  
+* [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
 
