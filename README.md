@@ -336,7 +336,8 @@ void cadastrarQuantidade(novoTipo *produto);
 
 ## recursividade-potencia
 
-**Recursividade** é uma poderosa técnica de programação que, na verdade, veio da matemática com o termo de **Definição Indutiva**. Informalmente, recursividade ocorre quando uma entidade é definida em termos de si mesma. Como exemplo, temos a seguinte definição para a função $f(x) = x^{n}$ sendo $x$ um número real e $n$ um número inteiro:
+**Recursividade** é uma poderosa técnica de programação que, na verdade, veio da matemática com o termo de **Definição Indutiva**. Informalmente, recursividade ocorre quando uma entidade é definida em termos de si mesma. Como exemplo, temos a seguinte definição para a função f(x) = x^{n} sendo x um número real e n um número inteiro:
+Teste: $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
 
 $$
 x^{n} =
