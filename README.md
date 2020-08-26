@@ -10,7 +10,8 @@
 * [passagem-de-parametro-por-referencia](https://github.com/YuriSiman/c-projects#passagem-de-parametro-por-referencia)  
 * [declaracao-de-novos-tipos](https://github.com/YuriSiman/c-projects#declaracao-de-novos-tipos)  
 * [cadastro-de-produtos](https://github.com/YuriSiman/c-projects#cadastro-de-produtos)  
-* [recursividade-potencia](https://github.com/YuriSiman/c-projects#recursividade-potencia)    
+* [recursividade-potencia](https://github.com/YuriSiman/c-projects#recursividade-potencia)      
+* [recursao-de-cauda-mdc](https://github.com/YuriSiman/c-projects#recursao-de-cauda-mdc)   
 
 ---
 
@@ -35,6 +36,7 @@ git clone https://github.com/YuriSiman/c-projects
 - [ ] declaracao-de-novos-tipos
 - [ ] cadastro-de-produtos
 - [ ] recursividade-potencia
+- [ ] recursao-de-cauda-mdc
 
 ---
 
@@ -369,6 +371,27 @@ Legenda: Considerar ^ como símbolo para calcular a potência e o {} recebendo o
 * Resultado de `2^{-7} = 0,0078125`
 
 * [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/recursividade-potencia)  
+* [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+
+---
+
+## recursao-de-cauda-mdc
+
+**Recursão de cauda** é quando a última coisa que a função faz é retornar a chamada recursiva, ou seja, você não efetua nenhuma operação com a chamada recursiva, **apenas retorna o seu valor**.
+
+O máximo divisor comum (MDC) entre dois números inteiros é o maior inteiro que divide ambos. Ou seja, é o maior de seus divisores.
+
+```
+Exemplo: 
+
+30 é divisível por 30, 15, 10, 6, 5, 3, 2 e 1
+50 é divisível por 50, 25, 10, 5, 2 e 1
+O MDC de 30 e 50 é 10
+```
+
+Calcule o máximo divisor comum (MDC) entre dois números inteiros com uma função **recursiva de cauda**, sendo que o seu caso **base** é `b = 0` e a sua implementação é `mdc(b, a % b)`
+
+* [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/recursao-de-cauda-mdc)  
 * [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
