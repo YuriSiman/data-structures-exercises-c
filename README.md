@@ -78,6 +78,7 @@ A **opção A** será desenvolvida utilizando o comando **while**
 A **opção B** será desenvolvida utilizando o comando **do while**  
 A **opção C** será desenvolvida utilizando o comando **for**  
 
+:eyes: [Código](https://github.com/YuriSiman/c-projects/tree/master/sequencias-matematica)  
 :small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
@@ -129,6 +130,7 @@ Resultado String 1 - Estrutur* de D*dos
 
 * Copiar o valor da string 2 na string 1 **sem** utilizar nenhuma função da biblioteca **string.h**
 
+:eyes: [Código](https://github.com/YuriSiman/c-projects/tree/master/manipulacao-de-string)  
 :small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
@@ -147,6 +149,7 @@ Programa para alocar espaço de memória na Heap, o usuário deverá informar um
 
 * Liberar o espaço de memória utilizado
 
+:eyes: [Código](https://github.com/YuriSiman/c-projects/tree/master/alocacao-dinamica)  
 :small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
@@ -196,6 +199,7 @@ Opção C
 Finalizar o programa
 ```
 
+:eyes: [Código](https://github.com/YuriSiman/c-projects/tree/master/passagem-de-parametro-por-referencia)  
 :small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
@@ -272,6 +276,7 @@ Fatorial - Para calcular o Fatorial, deve-se aceitar valores positivos ou nulos
 
 * Criar uma função que receba o número de **termos** e calcule o Fatorial deste número. Considerando a explicação anterior, e utilizando a **Struct**, que será passada via parâmetro, para preenchimento
 
+:eyes: [Código](https://github.com/YuriSiman/c-projects/tree/master/declaracao-de-novos-tipos)  
 :small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
@@ -331,6 +336,7 @@ void cadastrarPreco(float *valor);
 void cadastrarQuantidade(novoTipo *produto);
 ```
 
+:eyes: [Código](https://github.com/YuriSiman/c-projects/tree/master/cadastro-de-produtos)  
 :small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
@@ -350,9 +356,9 @@ Legenda: Considerar ^ como símbolo para calcular a potência e o {} recebendo o
 
 Observe que, para os casos em que `n` é diferente de `0`, `x^{n}` é aplicado em sua própria definição. A **Recursividade** permite que a função seja **simplificada** até que chegue em um caso tão simples que podemos definir diretamente, é o caso de `n = 0`. Este é o caso **base** da função, ele define a condição de parada da recursão  
 
-Com isso, gere o código de uma função recursiva referente à função mostrada acima, `f(x) = x^{n}` sendo **x um número real e n um número inteiro**
+* Com isso, gere o código de uma função recursiva referente à função mostrada acima, `f(x) = x^{n}` sendo **x um número real e n um número inteiro**
 
-* Caso ajude, segue abaixo a simplificação da função `f(x) = x^{n}`:
+* Como exemplo, segue abaixo a simplificação da função `f(2) = 2^{-7}`:
 
 ```
 2^{-7} = 1/2^{7} = 2.2^{7-1} = 2.2^{6} = (2^{6/2})^{2} = (2^{3})^{2} = 2.2^{3-1} = 2.2^{2} = (2^{2/2})^{2} = (2^{1})^{2} = 2.2^{1-1} = 2.2^{0} = 1
@@ -362,6 +368,7 @@ Legenda: Considerar ^ como símbolo para calcular a potência e o {} recebendo o
 
 * Resultado de `2^{-7} = 0,0078125`
 
+:eyes: [Código](https://github.com/YuriSiman/c-projects/tree/master/recursividade-potencia)  
 :small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
