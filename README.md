@@ -10,7 +10,8 @@
 * [passagem-de-parametro-por-referencia](https://github.com/YuriSiman/c-projects#passagem-de-parametro-por-referencia)  
 * [declaracao-de-novos-tipos](https://github.com/YuriSiman/c-projects#declaracao-de-novos-tipos)  
 * [cadastro-de-produtos](https://github.com/YuriSiman/c-projects#cadastro-de-produtos)  
-* [recursividade-potencia](https://github.com/YuriSiman/c-projects#recursividade-potencia)      
+* [recursividade-potencia](https://github.com/YuriSiman/c-projects#recursividade-potencia)   
+* [recursividade-multiplicacao](https://github.com/YuriSiman/c-projects#recursividade-multiplicacao)   
 * [recursao-de-cauda-mdc](https://github.com/YuriSiman/c-projects#recursao-de-cauda-mdc)   
 * [recursividade-torre-de-hanoi](https://github.com/YuriSiman/c-projects#recursividade-torre-de-hanoi)   
 
@@ -37,6 +38,7 @@ git clone https://github.com/YuriSiman/c-projects
 - [ ] declaracao-de-novos-tipos
 - [ ] cadastro-de-produtos
 - [ ] recursividade-potencia
+- [ ] recursividade-multiplicacao
 - [ ] recursao-de-cauda-mdc
 - [ ] recursividade-torre-de-hanoi
 
@@ -373,6 +375,21 @@ Legenda: Considerar ^ como símbolo para calcular a potência e o {} recebendo o
 * Resultado de `2^{-7} = 0,0078125`
 
 * [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/recursividade-potencia)  
+* [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+
+---
+
+## recursividade-multiplicacao
+
+Faça uma função **recursiva** que efetue a multiplicação de dois números **naturais** através de somas sucessivas
+
+```
+Exemplo: 
+
+7 * 5 = 7 + 7 + 7 + 7 + 7 = 35
+```
+
+* [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/recursividade-multiplicacao)  
 * [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
