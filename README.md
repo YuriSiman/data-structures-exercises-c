@@ -10,7 +10,7 @@
 * [passagem-de-parametro-por-referencia](https://github.com/YuriSiman/c-projects#passagem-de-parametro-por-referencia)  
 * [declaracao-de-novos-tipos](https://github.com/YuriSiman/c-projects#declaracao-de-novos-tipos)  
 * [cadastro-de-produtos](https://github.com/YuriSiman/c-projects#cadastro-de-produtos)  
-* [recursividade-potencia](https://github.com/YuriSiman/c-projects#recursividade-potencial)    
+* [recursividade-potencia](https://github.com/YuriSiman/c-projects#recursividade-potencia)    
 
 ---
 
@@ -34,6 +34,7 @@ git clone https://github.com/YuriSiman/c-projects
 - [ ] passagem-de-parametro-por-referencia
 - [ ] declaracao-de-novos-tipos
 - [ ] cadastro-de-produtos
+- [ ] recursividade-potencia
 
 ---
 
@@ -336,31 +337,30 @@ void cadastrarQuantidade(novoTipo *produto);
 
 ## recursividade-potencia
 
-**Recursividade** é uma poderosa técnica de programação que, na verdade, veio da matemática com o termo de **Definição Indutiva**. Informalmente, recursividade ocorre quando uma entidade é definida em termos de si mesma. Como exemplo, temos a seguinte definição para a função f(x) = x^{n} sendo x um número real e n um número inteiro:
-Teste: $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
+**Recursividade** é uma poderosa técnica de programação que, na verdade, veio da matemática com o termo de **Definição Indutiva**. Informalmente, recursividade ocorre quando uma entidade é definida em termos de si mesma. Como exemplo, temos a seguinte definição para a função `f(x) = x^{n}` sendo **x um número real e n um número inteiro**:
 
-$$
-x^{n} =
-\begin{cases}
-1  & \text{para n = 0}
-1/x^{-n}  & \text{para n < 0}
-(x^{n/2})^{2}  & \text{para > = 0 e n sendo par}
-x.x^{n-1}  & \text{para n > 0 e n sendo ímpar}
-\end{cases}
-$$
+```
+          1              para n = 0
+x^{n} =   1/x^{-n}       para n < 0
+          (x^{n/2})^{2}  para > = 0 e n sendo par
+          x.x^{n-1}      para n > 0 e n sendo ímpar
 
-Observe que, para os casos em que $n$ é diferente de $0$, $x^{n}$ é aplicado em sua própria definição. A **Recursividade** permite que a função seja **simplificada** até que chegue em um caso tão simples que podemos definir diretamente, é o caso de $n = 0$. Este é o caso **base** da função, ele define a condição de parada da recursão  
+Legenda: Considerar ^ como símbolo para calcular a potência e o {} recebendo o expoente
+```
 
-Com isso, gere o código da função recursiva referente à função mostrada acima, $f(x) = x^{n}$ sendo $x$ um número real e $n$ um número inteiro
+Observe que, para os casos em que `n` é diferente de `0`, `x^{n}` é aplicado em sua própria definição. A **Recursividade** permite que a função seja **simplificada** até que chegue em um caso tão simples que podemos definir diretamente, é o caso de `n = 0`. Este é o caso **base** da função, ele define a condição de parada da recursão  
 
-* Caso ajude, segue abaixo a simplificação da função $f(x) = x^{n}$:
+Com isso, gere o código de uma função recursiva referente à função mostrada acima, `f(x) = x^{n}` sendo **x um número real e n um número inteiro**
 
-$$
+* Caso ajude, segue abaixo a simplificação da função `f(x) = x^{n}`:
+
+```
 2^{-7} = 1/2^{7} = 2.2^{7-1} = 2.2^{6} = (2^{6/2})^{2} = (2^{3})^{2} = 2.2^{3-1} = 2.2^{2} = (2^{2/2})^{2} = (2^{1})^{2} = 2.2^{1-1} = 2.2^{0} = 1
 
-$$
+Legenda: Considerar ^ como símbolo para calcular a potência e o {} recebendo o expoente
+```
 
-* Resultado de $2^{-7} = 0,0078125$
+* Resultado de `2^{-7} = 0,0078125`
 
 :small_blue_diamond: [Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
