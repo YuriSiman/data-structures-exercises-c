@@ -401,7 +401,9 @@ Legenda: Considerar ^ como símbolo para calcular a potência e o {} recebendo o
 
 * 🔃 Crie um novo pull request
 
-Depois que seu pull request for mesclado, você pode excluir sua feature branch
+Depois que seu pull request for mesclado, você pode excluir sua feature branch  
+
+> Caso tenha dúvidas, confira este guia de como [contribuir no GitHub](https://github.com/firstcontributions/first-contributions)  
 
 ---
 
