@@ -408,7 +408,7 @@ Regra do Jogo:
 Você deve mover um disco de cada vez, sendo que um disco maior nunca pode ficar em cima de um disco menor
 ```
 
-<img align="center" src="https://lh3.googleusercontent.com/proxy/-PjkzzdVvumBapNdbd6tM5XXa4dBFT1SoHTwn6EnF3gwFmdCOdkrbUwZdDwlmU8IYfh9NDBWXAbcLKuLv3-SdzOueXa68lJ2IQUZ" width="350px;" height="350px;"/>
+<img align="center" src="https://lh3.googleusercontent.com/proxy/-PjkzzdVvumBapNdbd6tM5XXa4dBFT1SoHTwn6EnF3gwFmdCOdkrbUwZdDwlmU8IYfh9NDBWXAbcLKuLv3-SdzOueXa68lJ2IQUZ" width="350px;" height="150px;"/>
 
 Implemente este jogo usando uma função **recursiva** `para esta implementação não use uma função recursiva de cauda`  
 
