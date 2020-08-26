@@ -12,6 +12,7 @@
 * [cadastro-de-produtos](https://github.com/YuriSiman/c-projects#cadastro-de-produtos)  
 * [recursividade-potencia](https://github.com/YuriSiman/c-projects#recursividade-potencia)      
 * [recursao-de-cauda-mdc](https://github.com/YuriSiman/c-projects#recursao-de-cauda-mdc)   
+* [recursividade-torre-de-hanoi](https://github.com/YuriSiman/c-projects#recursividade-torre-de-hanoi)   
 
 ---
 
@@ -37,6 +38,7 @@ git clone https://github.com/YuriSiman/c-projects
 - [ ] cadastro-de-produtos
 - [ ] recursividade-potencia
 - [ ] recursao-de-cauda-mdc
+- [ ] recursividade-torre-de-hanoi
 
 ---
 
@@ -392,6 +394,25 @@ O MDC de 30 e 50 é 10
 Calcule o máximo divisor comum (MDC) entre dois números inteiros com uma função **recursiva de cauda**, sendo que o seu caso **base** é `b = 0` e a sua implementação é `mdc(b, a % b)`
 
 * [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/recursao-de-cauda-mdc)  
+* [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+
+---
+
+## recursividade-torre-de-hanoi
+
+O jogo da Torre de Hanói é um "quebra-cabeça" que se resume em uma base contendo três pinos `pino A - pino B - pino C` em um dos quais são dispostos alguns discos uns sobre os outros, em orgem crescente de diâmetro, de cima para baixo `pino A`. O objetivo é mover todos os discos do `pino A` para o `pino B` à sua direita. Porém, há uma regra...
+
+```
+Regra do Jogo:
+
+Você deve mover um disco de cada vez, sendo que um disco maior nunca pode ficar em cima de um disco menor
+```
+
+<img align="center" src="https://lh3.googleusercontent.com/proxy/-PjkzzdVvumBapNdbd6tM5XXa4dBFT1SoHTwn6EnF3gwFmdCOdkrbUwZdDwlmU8IYfh9NDBWXAbcLKuLv3-SdzOueXa68lJ2IQUZ" width="150px;"/>
+
+Implemente este jogo usando uma função **recursiva** `para esta implementação não use uma função recursiva de cauda`  
+
+* [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/recursividade-torre-de-hanoi)  
 * [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
 
 ---
