@@ -484,7 +484,7 @@ Depois que seu pull request for mesclado, você pode excluir sua feature branch
 * Me mande um e-mail [Gmail](mailto:yurisimannogueira@gmail.com)  
 
 [![Github](https://img.shields.io/badge/github-profile-%237159c1?style=for-the-badge&logo=github)](https://github.com/YuriSiman)  
-[![Curriculum](https://img.shields.io/badge/site-curriculum-%23563D7C?style=for-the-badge&logo=bootstrap)](http://yurisiman.surge.sh/)  
+[![Curriculum](https://img.shields.io/badge/site-curriculum-%23563D7C?style=for-the-badge&logo=bootstrap)](https://yurisiman.surge.sh/)  
 
 ---
 
