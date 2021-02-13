@@ -1,19 +1,19 @@
 <h1 align="center">Estrutura de Dados em C</h1>
 
-<p align="center">Aplicações em C para fins didáticos em Estrutura de Dados exercendo lógica de programação, manipulação de string, ponteiros, alocação dinâmica, declaração de novos tipos, diretivas de compilação, recursividade e listas lineares</p>
+<p align="center">Aplicações em C para fins didáticos em Estrutura de Dados com lógica de programação, manipulação de strings, ponteiros, alocação dinâmica, declaração de novos tipos, diretivas de compilação, recursividade e listas lineares</p>
 
-## 📋 Projetos
+## :clipboard: Tópicos
 
-* [sequencias-matematica](https://github.com/YuriSiman/c-projects#sequencias-matematica)  
-* [manipulacao-de-string](https://github.com/YuriSiman/c-projects#manipulacao-de-string)  
-* [alocacao-dinamica](https://github.com/YuriSiman/c-projects#alocacao-dinamica)  
-* [passagem-de-parametro-por-referencia](https://github.com/YuriSiman/c-projects#passagem-de-parametro-por-referencia)  
-* [declaracao-de-novos-tipos](https://github.com/YuriSiman/c-projects#declaracao-de-novos-tipos)  
-* [cadastro-de-produtos](https://github.com/YuriSiman/c-projects#cadastro-de-produtos)  
-* [recursividade-potencia](https://github.com/YuriSiman/c-projects#recursividade-potencia)   
-* [recursividade-multiplicacao](https://github.com/YuriSiman/c-projects#recursividade-multiplicacao)   
-* [recursao-de-cauda-mdc](https://github.com/YuriSiman/c-projects#recursao-de-cauda-mdc)   
-* [recursividade-torre-de-hanoi](https://github.com/YuriSiman/c-projects#recursividade-torre-de-hanoi)   
+* [sequencias-matematica](https://github.com/YuriSiman/data-structures-exercises-c#sequencias-matematica)  
+* [manipulacao-de-string](https://github.com/YuriSiman/data-structures-exercises-c#manipulacao-de-string)  
+* [alocacao-dinamica](https://github.com/YuriSiman/data-structures-exercises-c#alocacao-dinamica)  
+* [passagem-de-parametro-por-referencia](https://github.com/YuriSiman/data-structures-exercises-c#passagem-de-parametro-por-referencia)  
+* [declaracao-de-novos-tipos](https://github.com/YuriSiman/data-structures-exercises-c#declaracao-de-novos-tipos)  
+* [cadastro-de-produtos](https://github.com/YuriSiman/data-structures-exercises-c#cadastro-de-produtos)  
+* [recursividade-potencia](https://github.com/YuriSiman/data-structures-exercises-c#recursividade-potencia)   
+* [recursividade-multiplicacao](https://github.com/YuriSiman/data-structures-exercises-c#recursividade-multiplicacao)   
+* [recursao-de-cauda-mdc](https://github.com/YuriSiman/data-structures-exercises-c#recursao-de-cauda-mdc)   
+* [recursividade-torre-de-hanoi](https://github.com/YuriSiman/data-structures-exercises-c#recursividade-torre-de-hanoi)   
 
 ---
 
@@ -26,7 +26,7 @@ Tenho como objetivo propor exercícios sobre Estrutura de Dados utilizando a lin
 Clone este repositório em sua máquina local usando:
 
 ```
-git clone https://github.com/YuriSiman/c-projects
+git clone https://github.com/YuriSiman/data-structures-exercises-c.git
 ```
 
 ### :pencil2: Progresso
@@ -46,7 +46,7 @@ git clone https://github.com/YuriSiman/c-projects
 
 ---
 
-## 🚀 Vamos Começar
+## :rocket: Vamos Começar
 
 ## sequencias-matematica
 
@@ -86,8 +86,8 @@ A **opção A** será desenvolvida utilizando o comando **while**
 A **opção B** será desenvolvida utilizando o comando **do while**  
 A **opção C** será desenvolvida utilizando o comando **for**  
 
-* [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/sequencias-matematica)  
-* [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+* [Visualizar Código](https://github.com/YuriSiman/data-structures-exercises-c/tree/master/sequencias-matematica)  
+* [Voltar ao Início](https://github.com/YuriSiman/data-structures-exercises-c#estrutura-de-dados-em-c)  
 
 ---
 
@@ -138,8 +138,8 @@ Resultado String 1 - Estrutur* de D*dos
 
 * Copiar o valor da string 2 na string 1 **sem** utilizar nenhuma função da biblioteca **string.h**
 
-* [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/manipulacao-de-string)  
-* [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+* [Visualizar Código](https://github.com/YuriSiman/data-structures-exercises-c/tree/master/manipulacao-de-string)  
+* [Voltar ao Início](https://github.com/YuriSiman/data-structures-exercises-c#estrutura-de-dados-em-c)  
 
 ---
 
@@ -157,8 +157,8 @@ Programa para alocar espaço de memória na Heap, o usuário deverá informar um
 
 * Liberar o espaço de memória utilizado
 
-* [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/alocacao-dinamica)  
-* [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+* [Visualizar Código](https://github.com/YuriSiman/data-structures-exercises-c/tree/master/alocacao-dinamica)  
+* [Voltar ao Início](https://github.com/YuriSiman/data-structures-exercises-c#estrutura-de-dados-em-c)  
 
 ---
 
@@ -207,8 +207,8 @@ Opção C
 Finalizar o programa
 ```
 
-* [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/passagem-de-parametro-por-referencia)  
-* [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+* [Visualizar Código](https://github.com/YuriSiman/data-structures-exercises-c/tree/master/passagem-de-parametro-por-referencia)  
+* [Voltar ao Início](https://github.com/YuriSiman/data-structures-exercises-c#estrutura-de-dados-em-c)  
 
 ---
 
@@ -284,8 +284,8 @@ Fatorial - Para calcular o Fatorial, deve-se aceitar valores positivos ou nulos
 
 * Criar uma função que receba o número de **termos** e calcule o Fatorial deste número. Considerando a explicação anterior, e utilizando a **Struct**, que será passada via parâmetro, para preenchimento
 
-* [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/declaracao-de-novos-tipos)  
-* [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+* [Visualizar Código](https://github.com/YuriSiman/data-structures-exercises-c/tree/master/declaracao-de-novos-tipos)  
+* [Voltar ao Início](https://github.com/YuriSiman/data-structures-exercises-c#estrutura-de-dados-em-c)  
 
 ---
 
@@ -344,8 +344,8 @@ void cadastrarPreco(float *valor);
 void cadastrarQuantidade(novoTipo *produto);
 ```
 
-* [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/cadastro-de-produtos)  
-* [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+* [Visualizar Código](https://github.com/YuriSiman/data-structures-exercises-c/tree/master/cadastro-de-produtos)  
+* [Voltar ao Início](https://github.com/YuriSiman/data-structures-exercises-c#estrutura-de-dados-em-c)  
 
 ---
 
@@ -376,8 +376,8 @@ Legenda: Considerar ^ como símbolo para calcular a potência e o {} recebendo o
 
 * Resultado de `2^{-7} = 0,0078125`
 
-* [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/recursividade-potencia)  
-* [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+* [Visualizar Código](https://github.com/YuriSiman/data-structures-exercises-c/tree/master/recursividade-potencia)  
+* [Voltar ao Início](https://github.com/YuriSiman/data-structures-exercises-c#estrutura-de-dados-em-c)  
 
 ---
 
@@ -391,8 +391,8 @@ Exemplo:
 7 * 5 = 7 + 7 + 7 + 7 + 7 = 35
 ```
 
-* [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/recursividade-multiplicacao)  
-* [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+* [Visualizar Código](https://github.com/YuriSiman/data-structures-exercises-c/tree/master/recursividade-multiplicacao)  
+* [Voltar ao Início](https://github.com/YuriSiman/data-structures-exercises-c#estrutura-de-dados-em-c)  
 
 ---
 
@@ -412,8 +412,8 @@ O MDC de 30 e 50 é 10
 
 Calcule o máximo divisor comum (MDC) entre dois números inteiros com uma função **recursiva de cauda**, sendo que o seu caso **base** é `b = 0` e a sua implementação é `mdc(b, a % b)`
 
-* [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/recursao-de-cauda-mdc)  
-* [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+* [Visualizar Código](https://github.com/YuriSiman/data-structures-exercises-c/tree/master/recursao-de-cauda-mdc)  
+* [Voltar ao Início](https://github.com/YuriSiman/data-structures-exercises-c#estrutura-de-dados-em-c)  
 
 ---
 
@@ -431,8 +431,8 @@ Você deve mover um disco de cada vez, sendo que um disco maior nunca pode ficar
 
 Implemente este jogo usando uma função **recursiva** `para esta implementação não use uma função recursiva de cauda`  
 
-* [Visualizar Código](https://github.com/YuriSiman/c-projects/tree/master/recursividade-torre-de-hanoi)  
-* [Voltar ao Início](https://github.com/YuriSiman/c-projects#estrutura-de-dados-em-c)  
+* [Visualizar Código](https://github.com/YuriSiman/data-structures-exercises-c/tree/master/recursividade-torre-de-hanoi)  
+* [Voltar ao Início](https://github.com/YuriSiman/data-structures-exercises-c#estrutura-de-dados-em-c)  
 
 ---
 
@@ -442,17 +442,17 @@ Implemente este jogo usando uma função **recursiva** `para esta implementaçã
 
 ---
 
-## 🤔 Contribuindo
+## :confused: Como Contribuir?
 
 > Para começar...
 
 ### Passo 1
 
-* 🍴 Fork este repositório!
+* :fork_and_knife: Fork este repositório!
 
 ### Passo 2
 
-* 👯 Clone este repositório para sua máquina local usando `https://github.com/YuriSiman/c-projects.git`
+* :dancers: Clone este repositório para sua máquina local usando `https://github.com/YuriSiman/data-structures-exercises-c.git`
 
 ### Passo 3
 
@@ -460,15 +460,15 @@ Implemente este jogo usando uma função **recursiva** `para esta implementaçã
 
 ### Passo 4
 
-* ✅ Commit suas mudanças usando `git commit -m "feat: Minha nova feature"`
+* :white_check_mark: Commit suas mudanças usando `git commit -m "feat: Minha nova feature"`
 
 ### Passo 5
 
-* 📌 Dê um push usando `git push origin minha-feature`
+* :pushpin: Dê um push usando `git push origin minha-feature`
 
 ### Passo 6
 
-* 🔃 Crie um novo pull request
+* :arrows_clockwise: Crie um novo pull request
 
 Depois que seu pull request for mesclado, você pode excluir sua feature branch  
 
@@ -481,16 +481,16 @@ Depois que seu pull request for mesclado, você pode excluir sua feature branch
 > Entre em contato comigo...  
 
 * Me chame pelo [Linkedin](https://www.linkedin.com/in/yurisiman/)  
-* Me mande um e-mail [Gmail](mailto:yurisimannogueira@gmail.com)  
+* Me mande um e-mail [contato@yurisiman.com.br](mailto:contato@yurisiman.com.br)  
 
 [![Github](https://img.shields.io/badge/github-profile-%237159c1?style=for-the-badge&logo=github)](https://github.com/YuriSiman)  
-[![Curriculum](https://img.shields.io/badge/site-curriculum-%23563D7C?style=for-the-badge&logo=bootstrap)](https://yurisiman.surge.sh/)  
+[![Curriculum](https://img.shields.io/badge/site-curriculum-%23563D7C?style=for-the-badge&logo=bootstrap)](https://yurisiman.com.br)  
 
 ---
 
-## 📝 Licença
+## :pencil: Licença
 
-[![License](https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github)](https://github.com/YuriSiman/c-projects/blob/master/LICENSE)   
+[![License](https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github)](https://github.com/YuriSiman/data-structures-exercises-c/blob/master/LICENSE)   
 
 ---
 
