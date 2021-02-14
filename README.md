@@ -454,7 +454,7 @@ Implemente este jogo usando uma função **recursiva** `para esta implementaçã
 
 ### Passo 2
 
-* :dancers: Clone este repositório para sua máquina local usando `https://github.com/YuriSiman/data-structures-exercises-c.git`
+* :dancers: Clone este repositório para sua máquina local usando `git clone https://github.com/YuriSiman/data-structures-exercises-c.git`
 
 ### Passo 3
 
