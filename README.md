@@ -429,7 +429,7 @@ Você deve mover um disco de cada vez, sendo que um disco maior nunca pode ficar
 Obs: Use o pino C como pino auxiliar
 ```
 
-<img align="center" src="./readme-images/torre-de-hanoi.jpg" width="350px;" height="150px;"/>
+<img align="center" src="./readme-images/torre-de-hanoi.jpg" width="400px;" height="400px;"/>
 
 Implemente este jogo usando uma função **recursiva** `para esta implementação não use uma função recursiva de cauda`  
 
