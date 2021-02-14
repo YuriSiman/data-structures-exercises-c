@@ -444,7 +444,7 @@ Implemente este jogo usando uma função **recursiva** `para esta implementaçã
 
 ---
 
-## :thinking: Como Contribuir?
+## :thinking: Contribuindo
 
 > Para começar...
 
