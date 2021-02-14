@@ -419,15 +419,17 @@ Calcule o máximo divisor comum (MDC) entre dois números inteiros com uma funç
 
 ## recursividade-torre-de-hanoi
 
-O jogo da Torre de Hanói é um "quebra-cabeça" que se resume em uma base contendo três pinos `pino A - pino B - pino C` em um dos quais são dispostos alguns discos uns sobre os outros, em orgem crescente de diâmetro, de cima para baixo `pino A`. O objetivo é mover todos os discos do `pino A` para o `pino B` à sua direita. Porém, há uma regra...
+O jogo da Torre de Hanói é um "quebra-cabeça" que se resume em uma base contendo três pinos `pino A - pino B - pino C` em um dos quais são dispostos alguns discos uns sobre os outros, em ordem crescente de diâmetro, de cima para baixo no `pino A`. O objetivo é mover todos os discos do `pino A` para o `pino C` à sua direita. Porém, há uma regra...
 
 ```
 Regra do Jogo:
 
 Você deve mover um disco de cada vez, sendo que um disco maior nunca pode ficar em cima de um disco menor
+
+Obs: Use o pino C como pino auxiliar
 ```
 
-<img align="center" src="https://lh3.googleusercontent.com/proxy/-PjkzzdVvumBapNdbd6tM5XXa4dBFT1SoHTwn6EnF3gwFmdCOdkrbUwZdDwlmU8IYfh9NDBWXAbcLKuLv3-SdzOueXa68lJ2IQUZ" width="350px;" height="150px;"/>
+<img align="center" src="./readme-images/torre-de-hanoi.jpg" width="350px;" height="150px;"/>
 
 Implemente este jogo usando uma função **recursiva** `para esta implementação não use uma função recursiva de cauda`  
 
