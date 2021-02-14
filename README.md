@@ -444,7 +444,7 @@ Implemente este jogo usando uma função **recursiva** `para esta implementaçã
 
 ---
 
-## :confused: Como Contribuir?
+## :thinking: Como Contribuir?
 
 > Para começar...
 
@@ -466,7 +466,7 @@ Implemente este jogo usando uma função **recursiva** `para esta implementaçã
 
 ### Passo 5
 
-* :pushpin: Dê um push usando `git push origin minha-feature`
+* :pushpin: Dê um push usando `git push -u origin minha-feature`
 
 ### Passo 6
 
